@@ -8,7 +8,7 @@ print(" /_/   \_\_| |_|\___/|_| |_|      \__|_|  \__,_| .__/ ")
 print("                                               |_|")
 
 print(" \nAnonymous Email by anonymouse.org ")
-print("Coded by \033[91m github.com/Sanif007 \033[0m \n ")
+print("Coded by \033[91m github.com/Maih4ckerHu\033[0m \n ")
 to = input("To: ")
 subject = input("Subject: '")
 message = input("Message: ")
